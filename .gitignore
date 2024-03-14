@@ -1,0 +1,7 @@
+/.venv
+/build
+/compile.txt
+/dist
+/main.spec
+/pyinstaller.spec
+/__pycache__
